@@ -1,3 +1,5 @@
+# Create app.py file
+%%writefile app.py
 import streamlit as st
 from transformers import pipeline
 import numpy as np
